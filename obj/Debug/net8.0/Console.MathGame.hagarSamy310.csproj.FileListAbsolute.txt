@@ -1,0 +1,15 @@
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\bin\Debug\net8.0\Console.MathGame.hagarSamy310.exe
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\bin\Debug\net8.0\Console.MathGame.hagarSamy310.deps.json
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\bin\Debug\net8.0\Console.MathGame.hagarSamy310.runtimeconfig.json
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\bin\Debug\net8.0\Console.MathGame.hagarSamy310.dll
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\bin\Debug\net8.0\Console.MathGame.hagarSamy310.pdb
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\obj\Debug\net8.0\Console.MathGame.hagarSamy310.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\obj\Debug\net8.0\Console.MathGame.hagarSamy310.AssemblyInfoInputs.cache
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\obj\Debug\net8.0\Console.MathGame.hagarSamy310.AssemblyInfo.cs
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\obj\Debug\net8.0\Console.MathGame.hagarSamy310.csproj.CoreCompileInputs.cache
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\obj\Debug\net8.0\Console.MathGame.hagarSamy310.sourcelink.json
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\obj\Debug\net8.0\Console.MathGame.hagarSamy310.dll
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\obj\Debug\net8.0\refint\Console.MathGame.hagarSamy310.dll
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\obj\Debug\net8.0\Console.MathGame.hagarSamy310.pdb
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\obj\Debug\net8.0\Console.MathGame.hagarSamy310.genruntimeconfig.cache
+C:\Users\WEST\Desktop\myProjects\Console.MathGame.hagarSamy310\obj\Debug\net8.0\ref\Console.MathGame.hagarSamy310.dll
